@@ -163,6 +163,11 @@ export default function QuizApp() {
           </div>
         </div>
       )}
+                        {/* Footer section */}
+                        <footer className="mt-4 text-sm text-gray-300 text-muted-foreground">
+        Created By Ismail Ahmed Shah
+      </footer>
     </div>
+    
   );
 }
